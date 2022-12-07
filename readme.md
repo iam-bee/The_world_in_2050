@@ -7,7 +7,7 @@ Did you know that the world population increased from 1 billion in 1800 to aroun
 + The projection will be based on using a static growth rate of 1% per year. (In reality, currently this growth rate is declining slightly every year). We will also start our projections using an estimate of the world population of 7,850,000,000 in 2022.
 
 - Considering a 1% population growth per year, we can use the following formula to estimate next year’s population:
-        >next year population = current population x 1.01
+    > next year population = current population x 1.01
 
 + Also the project was design to prompt the user to input his/her age to predict the coming years population and how old the user will be 
 
